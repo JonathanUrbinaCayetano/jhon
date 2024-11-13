@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JonathanUrbinaCayetano/jhon.git/static/css/main.9de9ca94.css",
-    "main.js": "/JonathanUrbinaCayetano/jhon.git/static/js/main.d9f4172c.js",
-    "static/js/453.2accbebf.chunk.js": "/JonathanUrbinaCayetano/jhon.git/static/js/453.2accbebf.chunk.js",
-    "index.html": "/JonathanUrbinaCayetano/jhon.git/index.html",
-    "main.9de9ca94.css.map": "/JonathanUrbinaCayetano/jhon.git/static/css/main.9de9ca94.css.map",
-    "main.d9f4172c.js.map": "/JonathanUrbinaCayetano/jhon.git/static/js/main.d9f4172c.js.map",
-    "453.2accbebf.chunk.js.map": "/JonathanUrbinaCayetano/jhon.git/static/js/453.2accbebf.chunk.js.map"
+    "main.css": "/jhon/static/css/main.9de9ca94.css",
+    "main.js": "/jhon/static/js/main.8a1bf3bf.js",
+    "static/js/453.2accbebf.chunk.js": "/jhon/static/js/453.2accbebf.chunk.js",
+    "index.html": "/jhon/index.html",
+    "main.9de9ca94.css.map": "/jhon/static/css/main.9de9ca94.css.map",
+    "main.8a1bf3bf.js.map": "/jhon/static/js/main.8a1bf3bf.js.map",
+    "453.2accbebf.chunk.js.map": "/jhon/static/js/453.2accbebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9de9ca94.css",
-    "static/js/main.d9f4172c.js"
+    "static/js/main.8a1bf3bf.js"
   ]
 }
